@@ -1,7 +1,7 @@
 # Problem Set 2, hangman.py
-# Name: 
+# Name: Michael Rodyushkin
 # Collaborators:
-# Time spent:
+# Time spent: 2.5 hours
 
 # Hangman Game
 # -----------------------------------
